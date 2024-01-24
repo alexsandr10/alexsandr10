@@ -18,3 +18,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-e5ebdd?style=for-the-badge&logo=Bash&logoColor=)
 ![VScode](https://img.shields.io/badge/-VScode-e5ebdd?style=for-the-badge&logo=VScode&logoColor=)
 ![ChromeDevTools](https://img.shields.io/badge/-ChromeDevTools-e5ebdd?style=for-the-badge&logo=ChromeDevTools&logoColor=)
+
+### Мои работы
+[![Postman_коллекции](https://img.shields.io/badge/-Postman_коллекции-e5ebdd?style=for-the-badge&logo=Postman&logoColor=)](https://api.postman.com/collections/19388171-09d457d2-42a0-43ea-becd-21b15f1d5216?access_key=PMAT-01HJJ7K1DPF6N80RGPGDW5ZR2Q)
+[![SQL_запросы](https://img.shields.io/badge/-SQL_запросы-e5ebdd?style=for-the-badge&logo=MySQL&logoColor=)](https://drive.google.com/file/d/1SJi3l2XYCTY8FqB8oQevPZV0_oNwnkbp/view?usp=drive_link)
