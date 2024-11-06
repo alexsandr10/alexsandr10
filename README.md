@@ -20,7 +20,7 @@
 ![ChromeDevTools](https://img.shields.io/badge/-ChromeDevTools-e5ebdd?style=for-the-badge&logo=ChromeDevTools&logoColor=)
 
 ### Мои работы
-[![Postman_коллекции](https://img.shields.io/badge/-Postman_коллекции-e5ebdd?style=for-the-badge&logo=Postman&logoColor=)](https://api.postman.com/collections/19388171-09d457d2-42a0-43ea-becd-21b15f1d5216?access_key=PMAT-01HJJ7K1DPF6N80RGPGDW5ZR2Q)
+[![Postman_коллекции](https://img.shields.io/badge/-Postman_коллекции-e5ebdd?style=for-the-badge&logo=Postman&logoColor=)](https://www.postman.com/maintenance-specialist-44693897/workspace/test-swagger-ui/collection/19388171-999d29a8-1970-4fac-bdbf-0a1a268008ae?action=share&creator=19388171)
 [![SQL_запросы](https://img.shields.io/badge/-SQL_запросы-e5ebdd?style=for-the-badge&logo=MySQL&logoColor=)](https://drive.google.com/file/d/1SJi3l2XYCTY8FqB8oQevPZV0_oNwnkbp/view?usp=drive_link)
 [![Тестирование_карандаша](https://img.shields.io/badge/-Тестирование_карандаша-e5ebdd?style=for-the-badge&logo=&logoColor=)](https://drive.google.com/file/d/1lngnZMtjcKaec_GRzn99KzD0OeRKLuZQ/view?usp=drive_link)
 [![Эквивалентность_граничные_значения](https://img.shields.io/badge/-Эквивалентность_граничные_значения-e5ebdd?style=for-the-badge&logo=&logoColor=)](https://docs.google.com/spreadsheets/d/1IEfFykxwAQwSZGG-uyD_zDExTCLA-fR0/edit?usp=drive_link&ouid=111722130251341358650&rtpof=true&sd=true)
