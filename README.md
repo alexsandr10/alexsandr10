@@ -30,6 +30,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
 </div>
 
+### Тестовые артефакты:
+
+<ul>
+    <li><a href="https://github.com/alexsandr10/demoshopping">Интернет-магазин:</a> техники тест-дизайна и тестовая документация.</li>
+    <li><a href="https://github.com/alexsandr10/shopping_list">Shopping-list:</a> тестовая документация к мобильному приложению.</li>
+    <li><a href="https://github.com/alexsandr10/REST-SOAP">REST/SOAP</a> коллекции тестирования API.</li>
+    <li><a href="https://github.com/alexsandr10/MySQL">SQL</a> запросы к БД Интернет-магазина.</li>
+    <li><a href="https://github.com/alexsandr10/MongoDB">NoSQL</a> запросы MongoDB.</li>
+    <li><a href="https://github.com/alexsandr10/BASH">Bash</a> команды.</li>
+</ul>
 
 ---
 
